@@ -28,7 +28,7 @@
 
 ##  Installation
 
-Install via package manager
+Install via your favorite package manager
 
 ```lua
 -- Using Packer:
